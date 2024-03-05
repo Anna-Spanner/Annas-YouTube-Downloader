@@ -1,0 +1,10 @@
+How to install:
+Step 1: Uncompress files to C:\YTDownloads or any desired folder
+Step 2: Open Windows Environment Variables
+Step 3: Click "Environment Variables" in the bottom right (https://i.imgur.com/blTXdz8.png)
+Step 4: Under the section "System Variables" at the bottom of the screen, locate the "Variable" entitled "Path"
+Step 5: Click "Path", then click "Edit"
+Step 6: Add 2 new variables inside Path called "C:\YTDownloads\ffmpeg\bin" and "C:\YTDownloads\cecho"
+Step 7: Add a shortcut from wherever you want to open it from (IE desktop, documents etc) to "C:\YTDownloads\Youtube Downloader V2.2.bat"
+
+All done! :D
